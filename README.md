@@ -1,13 +1,7 @@
-Hybrid Framework for Umbraco v7 Best Practises
-==============================================
-A framework for Umbraco with a lot of examples.
 
-It runs on SQL CE, but there is also a SQL Server .bak file which can be used.
 
-Username: admin
+A generic project for ASP.NET(v4) CMS application using Umbraco (v7.2.1) 
 
-Password: framework123!
 
-This video explains all the new features of the Hybrid Framework for Umbraco v7 and how to use them: https://www.youtube.com/watch?v=Enni9r0whCE
-
-There isn't any other documentation yet, but in the code there are a lot of comments which can help.
+Created based on framework that incorporate best practices 
+https://our.umbraco.org/projects/developer-tools/hybrid-framework-for-umbraco-v7
